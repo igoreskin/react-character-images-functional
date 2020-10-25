@@ -1,0 +1,25 @@
+.wrapper {
+  max-width: 500px;
+  padding: 3%;
+  margin: auto
+}
+  
+img {
+  width: 100%;
+}
+
+.name {
+  font-size: 200%;
+  font-weight: 500;
+  margin-top: 70px;
+  animation: 'zoomIn';
+}
+
+.button {
+  margin-top: 30px;
+  background-color: rgb(238, 227, 227);
+  border: none;
+  height: 35px;
+  width: 200px;
+  font-size: 100%;
+}

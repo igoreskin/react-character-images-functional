@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  align-items: center;
+  margin-top: 15vh;
+}
+
+p {
+  font-size: 140%;
+  font-weight: 500;
+  margin-top: 10vh;
+}

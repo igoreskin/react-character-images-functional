@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0",
+    "image": "images/luke.jpg",
+    "name": "Luke Skywalker"
+  },
+  {
+    "id": "1",
+    "image": "images/darth.jpg",
+    "name": "Darth Vader"
+  },
+  {
+    "id": "2",
+    "image": "images/obi.png",
+    "name": "Ob-wan Kenobi"
+  },
+  {
+    "id": "3",
+    "image": "images/r2d2.jpg",
+    "name": "R2-D2"
+  }
+]
